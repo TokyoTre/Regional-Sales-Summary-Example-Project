@@ -1,0 +1,44 @@
+[
+    {
+        "function": "generate_sales_summary",
+        "input": [
+            "problems/regional_sales_summary/input_data.csv",
+            "outputs/output_summary.csv"
+        ],
+        "expected": [
+            {
+                "Region": "South",
+                "TotalSales": 150.0,
+                "Rank": 1
+            },
+            {
+                "Region": "North",
+                "TotalSales": 140.0,
+                "Rank": 2
+            },
+            {
+                "Region": "East",
+                "TotalSales": 75.0,
+                "Rank": 3
+            }
+        ],
+        "actual": [
+            {
+                "Region": "South",
+                "TotalSales": 150.0,
+                "Rank": 1
+            },
+            {
+                "Region": "North",
+                "TotalSales": 140.0,
+                "Rank": 2
+            },
+            {
+                "Region": "East",
+                "TotalSales": 75.0,
+                "Rank": 3
+            }
+        ],
+        "passed": true
+    }
+]

@@ -1,0 +1,11 @@
+OrderID,Region,SalesPerson,Product,UnitsSold,UnitPrice
+1001,North,John,Widget,5,20.0
+1002,South,Alice,Gadget,3,50.0
+1003,East,Bob,Thingamajig,5,15.0
+1004,North,John,Widget,2,20.0
+1005,South,Alice,Gadget,0,50.0
+1006,East,Bob,Thingamajig,0,15.0
+1007,South,Charlie,Widget,0,50.0
+
+
+
